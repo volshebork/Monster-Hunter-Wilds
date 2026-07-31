@@ -9,7 +9,7 @@
 
 </details>
 
-<!-- -->
+<!--This comment is here to make consecutive collapsible sections will function.-->
 
 <details open>
 <summary><h1>1 Intro</h1></summary>
@@ -18,7 +18,10 @@ This guide goes over Sword and Shield controls and combos. This is not an in-dep
 
 </details>
 
-# 2 Quick Start Guide
+<!--This comment is here to make consecutive collapsible sections will function.-->
+
+<details open>
+<summary><h1>2 Quick Start Guide</h1></summary>
 
 This section will give you some basics if you just want to get right into hunting.
 
@@ -61,6 +64,8 @@ Use these combos when you end up near the head and want to build some stun damag
 `M1 > M1 > M1 > M1 + WASD`
 
 You can move around the monster with `WASD` as you perform this combo to reposition yourself, chase wounds, or attack the body part you want to attack.
+
+</details>
 
 
 
