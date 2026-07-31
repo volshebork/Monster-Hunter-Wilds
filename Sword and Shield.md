@@ -9,15 +9,32 @@
 
 </details>
 
-# 1 Intro
+<!-- -->
+
+<details open>
+<summary><h1>1 Intro</h1></summary>
 
 This guide goes over Sword and Shield controls and combos. This is not an in-depth guide on all the mechanics, moves, or combos, but rather a primer for Hunters new to the SnS that can be referenced as they are playing. The controls here are written for playing on mouse and keyboard. Note: The M5 key is R by default.
+
+</details>
 
 # 2 Quick Start Guide
 
 This section will give you some basics if you just want to get right into hunting.
 
 ## 2.1 Basic Moves
+
+**Perfect Guard**
+
+`(Hold M5 > M2)`
+
+Hold your shield up and press `M2` right before an attack lands for a Perfect Guard. Follow up with `M1` for a counterattack.
+
+**Advancing Slash (Gap Closer)**
+
+`M5 + M1`
+
+Use this to close the gap, reposition, chase wounds, or dodge.
 
 ## 2.2 Basic Combos
 
@@ -35,23 +52,9 @@ Use this combo when you have a longer opening and have time to get more damage i
 
 **Shield Bash Combo**
 
-`(W + M2) > M2 > M2`
-
 `(W + M2) > M2 > M2 > (M5 + M2)`
 
 Use these combos when you end up near the head and want to build some stun damage.
-
-**Perfect Guard**
-
-`(Hold M5 > M2)`
-
-Hold your shield up and press `M2` right before an attack lands for a Perfect Guard. Follow up with `M1` for a counterattack.
-
-**Advancing Slash (Gap Closer)**
-
-`M5 + M1`
-
-Use this to close the gap, reposition, chase wounds, or dodge.
 
 **Chop Combo (Repositioning)**
 
