@@ -1,10 +1,13 @@
-# Table of Contents
+<details>
+<summary>Table of Contents</summary?
 
 1. [Intro](#1-intro)
 2. [Quick Start Guide](#2-quick-start-guide)
     - 2.1 [Basic Moves](#21-basic-moves)
     - 2.2 [Basic Combos](#22-basic-combos)
 3. [Test](#test)
+
+</details>
 
 # 1 Intro
 
