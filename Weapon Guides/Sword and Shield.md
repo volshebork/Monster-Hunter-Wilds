@@ -33,7 +33,7 @@ This section will give you some basics if you just want to get right into huntin
 
 Hold your shield up and press `M2` right before an attack lands for a Perfect Guard. Follow up with `M1` for a counterattack.
 
-**Advancing Slash (Gap Closer)**
+**Sliding Swipe (Gap Closer)**
 
 `M5 + M1`
 
@@ -112,23 +112,11 @@ Shield Bash Combo = Shield Attack > Shield Bash > Hard Bash
 
 Perfect Rush Combo = 
 
-# Basic Moves:
 
-## Unsheathe Attack (Advancing Slash):
 
-`(W + M1)`
 
-## Advancing Slash:
 
-`(M1 + M2)`
 
-## Guard Slash:
-
-`(M5 + M2)`
-
-## Sliding Swipe:
-
-`(M5 + M1)`
 
 ## Rising Slash:
 
