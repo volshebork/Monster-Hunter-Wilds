@@ -1,7 +1,6 @@
 <details>
 <summary><h1>Table of Contents</h1></summary>
 
-
 1. [Intro](#1-intro)
 2. [Quick Start Guide](#2-quick-start-guide)
     - 2.1 [Basic Moves](#21-basic-moves)
