@@ -8,7 +8,7 @@
 
 </details>
 
-<!--This comment is here to make consecutive collapsible sections will function.-->
+<!--This comment is here to ensure consecutive collapsible sections will function.-->
 
 <details open>
 <summary><h1>1 Intro</h1></summary>
@@ -17,7 +17,7 @@ This guide goes over Sword and Shield controls and combos. This is not an in-dep
 
 </details>
 
-<!--This comment is here to make consecutive collapsible sections will function.-->
+<!--This comment is here to ensure consecutive collapsible sections will function.-->
 
 <details open>
 <summary><h1>2 Quick Start Guide</h1></summary>
