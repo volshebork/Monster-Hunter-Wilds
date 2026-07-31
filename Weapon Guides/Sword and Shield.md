@@ -1,9 +1,9 @@
 <details open>
 <summary><h1>Table of Contents</h1></summary>
 
-1 [Intro](#1-intro)
-2 [Quick Start Guide](#2-quick-start-guide)
-&nbsp;&nbsp;&nbsp;&nbsp;2.1 [Basic Moves](#21-basic-moves)
+1 [Intro](#1-intro)<br>
+2 [Quick Start Guide](#2-quick-start-guide)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 [Basic Moves](#21-basic-moves)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.2 [Basic Combos](#22-basic-combos)
 
 </details>
