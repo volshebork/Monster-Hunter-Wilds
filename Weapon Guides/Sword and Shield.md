@@ -1,15 +1,10 @@
 <details open>
 <summary><h1>Table of Contents</h1></summary>
 
-<ul style="list-style-type: none; padding-left: 0px;">
-    <li>1. <a href="#1-intro">Intro</a></li>
-    <li>2. <a href="#2-quick-start-guide">Quick Start Guide</a>
-        <ul style="list-style-type: none; padding-left: 20px;">
-            <li>2.1 <a href="#21-basic-moves">Basic Moves</a></li>
-            <li>2.2 <a href="#22-basic-combos">Basic Combos</a></li>
-        </ul>
-    </li>
-</ul>
+1 [Intro](#1-intro)
+2 [Quick Start Guide](#2-quick-start-guide)
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 [Basic Moves](#21-basic-moves)
+&nbsp;&nbsp;&nbsp;&nbsp;2.2 [Basic Combos](#22-basic-combos)
 
 </details>
 
