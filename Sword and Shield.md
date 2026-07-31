@@ -4,7 +4,7 @@
 2. [Quick Start Guide](#2-quick-start-guide)
     2.1 [Basic Moves](#21-basic-moves)
     2.2 [Basic Combos](#22-basic-combos)
-1. [Test](#test)
+3. [Test](#test)
 
 # 1 Intro
 
