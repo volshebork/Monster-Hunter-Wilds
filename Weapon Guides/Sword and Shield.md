@@ -5,7 +5,6 @@
 2. [Quick Start Guide](#2-quick-start-guide)
     - 2.1 [Basic Moves](#21-basic-moves)
     - 2.2 [Basic Combos](#22-basic-combos)
-3. [Test](#test)
 
 </details>
 
@@ -51,6 +50,8 @@ This is your BnB combo that you will spam.
 
 `M2 > M2 > M2 > (M1 + M2) > Hold (M1 + M2) > M1`
 
+Slash Combo > Spinning Reaper > Charged Chop > Rising Slash
+
 Use this combo when you have a longer opening and have time to get more damage in.
 
 **Shield Bash Combo**
@@ -66,100 +67,3 @@ Use these combos when you end up near the head and want to build some stun damag
 You can move around the monster with `WASD` as you perform this combo to reposition yourself, chase wounds, or attack the body part you want to attack.
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Combo Names:
-
-Chop Combo = Chop > Side Slash > Diagonal Rising Slash > Diagonal Chop
-
-Slash Combo = Lateral Slash > Return Stroke > Spinning Rising Slash
-
-Shield Bash Combo = Shield Attack > Shield Bash > Hard Bash
-
-Perfect Rush Combo = 
-
-
-
-
-
-
-
-## Rising Slash:
-
-`(M5 + M1 + M2)`
-
-## Round Slash / Charged Chop:
-
-`(M1 + M2)` (Must be done as a follow up. Hold for **Charged Chop**.)
-
-## Spinning Reaper:
-
-`(M1 + M2)` (Must be done at the end of **Chop Combo** or **Slash Combo**.)
-
-## Block:
-
-`M5`
-
-## Shield Attack:
-
-`(W + M2)`
-
-# 3 Basic Combos:
-
-## Chop Combo > Spinning Reaper > Charged Chop > Rising Slash
-
-`M1 > M1 > M1 > M1 > (M1 + M2) > Hold (M1 + M2) > M1` (Can be influences with `WASD`)
-
-## Slash Combo > Spinning Reaper > Charged Chop > Rising Slash
-
-`M2 > M2 > M2 > (M1 + M2) > Hold (M1 + M2) > M1`
-
-# 4 BnB Combo:
-
-`M2 > M2 > (M1 + M2) > M2 > M2 > M2 > (M1 + M2)...`
-
-# 5 Long Opening Combos:
-
-`M2 > M2 > M2 > (M1 + M2) > Hold (M1 + M2) > M1`
-
-# 6 Shield Combos:
-
-## Shield Bash Combo:
-
-`(W + M2) > M2 > M2`
-
-`(W + M2) > M2 > M2 > (M5 + M2)`
