@@ -25,9 +25,13 @@ This section will give you some basics if you just want to get right into huntin
 
 `M2 > M2 > (M1 + M2) > M2 > M2 > M2 > (M1 + M2)`
 
+This is your BnB combo that you will spam.
+
 **Longer Opening Combo**
 
 `M2 > M2 > M2 > (M1 + M2) > Hold (M1 + M2) > M1`
+
+Use this combo when you have a longer opening and have time to get more damage in.
 
 **Shield Bash Combo**
 
@@ -35,9 +39,25 @@ This section will give you some basics if you just want to get right into huntin
 
 `(W + M2) > M2 > M2 > (M5 + M2)`
 
+Use these combos when you end up near the head and want to build some stun damage.
 
+**Perfect Guard**
 
+`(Hold M5 > M2)`
 
+Hold your shield up and press `M2` right before an attack lands for a Perfect Guard. Follow up with `M1` for a counterattack.
+
+**Advancing Slash (Gap Closer)**
+
+`M5 + M1`
+
+Use this to close the gap, reposition, chase wounds, or dodge.
+
+**Chop Combo (Repositioning)**
+
+`M1 > M1 > M1 > M1 + WASD`
+
+You can move around the monster with `WASD` as you perform this combo to reposition yourself, chase wounds, or attack the body part you want to attack.
 
 
 
